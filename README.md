@@ -1,18 +1,18 @@
                                                                       🎮 Akshay Chaurasia – Game Developer Portfolio
 
                                                                                      🧑‍💻 About Me
-
-                                           I'm a passionate Unreal Engine developer with 3+ years of experience creating immersive VR environments,
-                                       cinematic experiences, and AI-driven Metahuman interactions. I specialize in building real-time interactive systems, 
-                                     with a strong grasp of Blueprints, C++, and AI integration. I bring both technical depth and creative vision to my work.
+                                                                                     
+ I'm a passionate Unreal Engine developer with 3+ years of experience creating immersive VR environments,
+ cinematic experiences, and AI-driven Metahuman interactions. I specialize in building real-time interactive systems, 
+ with a strong grasp of Blueprints, C++, and AI integration. I bring both technical depth and creative vision to my work.
 
  
                                                                                  🛠️ Technical Skills
                                                                                  
-                                                             Engines & Tools: Unreal Engine 5, Unity (basic), Blender (for modeling)
-                                                                     Scripting & Languages: Blueprint, C++, Java, Kotlin
-                                                                     AI & Interaction: Metahuman, Convai AI, Inworld AI
-                                                           Other Skills: Android Development, Indoor Navigation, Smart Environments
+  Engines & Tools: Unreal Engine 5, Unity (basic), Blender (for modeling)
+  Scripting & Languages: Blueprint, C++, Java, Kotlin
+  AI & Interaction: Metahuman, Convai AI, Inworld AI
+  Other Skills: Android Development, Indoor Navigation, Smart Environments
 
                
                                                                                      📂 Projects
