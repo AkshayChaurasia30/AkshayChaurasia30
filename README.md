@@ -1,20 +1,22 @@
-                  🎮 Akshay Chaurasia – Game Developer Portfolio
-                                🧑‍💻 About Me
-                                                                                     
+                  🎮 Akshay Chaurasia – Game Developer 
+                                                                                   
  I'm a passionate Unreal Engine developer with 3+ years of experience creating immersive VR environments,
  cinematic experiences, and AI-driven Metahuman interactions. I specialize in building real-time interactive systems, 
  with a strong grasp of Blueprints, C++, and AI integration. I bring both technical depth and creative vision to my work.
 
  
-                  🛠️ Technical Skills
+ 🛠️ Technical Skills
                                                                                  
-  Engines & Tools: Unreal Engine 5, Unity (basic), Blender (for modeling)
-  Scripting & Languages: Blueprint, C++, Java, Kotlin
-  AI & Interaction: Metahuman, Convai AI, Inworld AI
+ 1- Engines & Tools: Unreal Engine 5
+ 2- Unity (basic)
+ 3- Blender (for modeling)
+ 4- Scripting & Languages: Blueprint, C++
+ 5- Java, Kotlin
+ 6- AI & Interaction: Metahuman, Convai AI, Inworld AI
   Other Skills: Android Development, Indoor Navigation, Smart Environments
 
                
-                      📂 Projects
+ 📂 Projects
                                   
   🚗 BMW Automotive VR Simulation
                                     
